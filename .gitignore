@@ -24,3 +24,12 @@ proguard/
 
 # Log Files
 *.log
+
+# Eclipse files
+app/.classpath
+app/.project
+app/.settings
+
+# Ant files
+app/build.xml
+app/proguard-project.txt
